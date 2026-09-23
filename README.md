@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Wamisha Sahilu
 
-<!--
-**Devmisha5543/Devmisha5543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- All of my projects are available at [https://devmisha5543.github.io/Portifolio/](https://devmisha5543.github.io/Portifolio/)
+- How to reach me [wmsm16@gmail.com](mailto:wmsm16@gmail.com) | [@WMlessons](https://t.me/WMlessons) on Telegram
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,js,py,postgres,mongodb" />
+</a>
+
+---
+
+## Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,npm" />
+</a>
