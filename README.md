@@ -1,6 +1,6 @@
 # Hi, I'm Wamisha Sahilu
 
-- All of my projects are available at [https://github.com/Devmisha5543/Portifolio](portifolio16.vercel.app)
+- All of my projects are available at [portifolio16.vercel.app](portifolio16.vercel.app)
 - How to reach me [wmsm16@gmail.com](mailto:wmsm16@gmail.com) | [@WMlessons](https://t.me/WMlessons) on Telegram
 
 ---
